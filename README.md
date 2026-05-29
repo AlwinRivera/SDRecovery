@@ -21,7 +21,10 @@ A desktop app built with Electron. The UI is plain HTML/CSS/JS/jQuery/Bootstrap 
    ```
 3. Install Electron:
    ```
-   npm install
+   npm install --legacy-peer-deps
+   ```
+   ```
+   npm install -g electron
    ```
 
 ---
